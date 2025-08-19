@@ -6,7 +6,7 @@ It’s a simple showcase project that runs locally with `npm run dev` and can be
 ---
 
 ## 🚀 Demo
-🔗 [Live Site]( COMING SOON )  
+🔗 [Live Site] : https://strum-lab.vercel.app/  
 
 ---
 
